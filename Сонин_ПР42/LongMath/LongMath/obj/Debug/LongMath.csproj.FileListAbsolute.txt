@@ -1,0 +1,14 @@
+E:\Yandex.Disk\YandexDisk\YandexDisk\Учёба\byad\Сонин_ПР42\Eratospen\LongMath\bin\Debug\LongMath.exe.config
+E:\Yandex.Disk\YandexDisk\YandexDisk\Учёба\byad\Сонин_ПР42\Eratospen\LongMath\bin\Debug\LongMath.exe
+E:\Yandex.Disk\YandexDisk\YandexDisk\Учёба\byad\Сонин_ПР42\Eratospen\LongMath\bin\Debug\LongMath.pdb
+E:\Yandex.Disk\YandexDisk\YandexDisk\Учёба\byad\Сонин_ПР42\Eratospen\LongMath\bin\Debug\E2tima.dll
+E:\Yandex.Disk\YandexDisk\YandexDisk\Учёба\byad\Сонин_ПР42\Eratospen\LongMath\obj\Debug\LongMath.csprojResolveAssemblyReference.cache
+E:\Yandex.Disk\YandexDisk\YandexDisk\Учёба\byad\Сонин_ПР42\Eratospen\LongMath\obj\Debug\LongMath.exe
+E:\Yandex.Disk\YandexDisk\YandexDisk\Учёба\byad\Сонин_ПР42\Eratospen\LongMath\obj\Debug\LongMath.pdb
+E:\Yandex.Disk\YandexDisk\YandexDisk\Учёба\byad\Сонин_ПР42\LongMath\LongMath\bin\Debug\LongMath.exe.config
+E:\Yandex.Disk\YandexDisk\YandexDisk\Учёба\byad\Сонин_ПР42\LongMath\LongMath\bin\Debug\LongMath.exe
+E:\Yandex.Disk\YandexDisk\YandexDisk\Учёба\byad\Сонин_ПР42\LongMath\LongMath\bin\Debug\LongMath.pdb
+E:\Yandex.Disk\YandexDisk\YandexDisk\Учёба\byad\Сонин_ПР42\LongMath\LongMath\bin\Debug\E2tima.dll
+E:\Yandex.Disk\YandexDisk\YandexDisk\Учёба\byad\Сонин_ПР42\LongMath\LongMath\obj\Debug\LongMath.csprojResolveAssemblyReference.cache
+E:\Yandex.Disk\YandexDisk\YandexDisk\Учёба\byad\Сонин_ПР42\LongMath\LongMath\obj\Debug\LongMath.exe
+E:\Yandex.Disk\YandexDisk\YandexDisk\Учёба\byad\Сонин_ПР42\LongMath\LongMath\obj\Debug\LongMath.pdb

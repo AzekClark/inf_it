@@ -1,0 +1,14 @@
+c:\users\azek\documents\visual studio 2015\Projects\Eratospen\Eratospen\bin\Debug\Eratospen.exe.config
+c:\users\azek\documents\visual studio 2015\Projects\Eratospen\Eratospen\obj\Debug\Eratospen.csprojResolveAssemblyReference.cache
+c:\users\azek\documents\visual studio 2015\Projects\Eratospen\Eratospen\bin\Debug\Eratospen.exe
+c:\users\azek\documents\visual studio 2015\Projects\Eratospen\Eratospen\bin\Debug\Eratospen.pdb
+c:\users\azek\documents\visual studio 2015\Projects\Eratospen\Eratospen\obj\Debug\Eratospen.exe
+c:\users\azek\documents\visual studio 2015\Projects\Eratospen\Eratospen\obj\Debug\Eratospen.pdb
+C:\Users\Azek\documents\visual studio 2015\Projects\Eratospen\Eratospen\bin\Debug\E2tima.dll
+C:\Users\Azek\YandexDisk\Учёба\byad\Сонин_ПР42\Eratospen\Eratospen\bin\Debug\LongMath.exe.config
+C:\Users\Azek\YandexDisk\Учёба\byad\Сонин_ПР42\Eratospen\Eratospen\bin\Debug\LongMath.exe
+C:\Users\Azek\YandexDisk\Учёба\byad\Сонин_ПР42\Eratospen\Eratospen\bin\Debug\LongMath.pdb
+C:\Users\Azek\YandexDisk\Учёба\byad\Сонин_ПР42\Eratospen\Eratospen\bin\Debug\E2tima.dll
+C:\Users\Azek\YandexDisk\Учёба\byad\Сонин_ПР42\Eratospen\Eratospen\obj\Debug\Eratospen.csprojResolveAssemblyReference.cache
+C:\Users\Azek\YandexDisk\Учёба\byad\Сонин_ПР42\Eratospen\Eratospen\obj\Debug\LongMath.exe
+C:\Users\Azek\YandexDisk\Учёба\byad\Сонин_ПР42\Eratospen\Eratospen\obj\Debug\LongMath.pdb

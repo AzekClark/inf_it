@@ -1,0 +1,14 @@
+C:\Users\Azek\YandexDisk\Учёба\byad\Сонин_ПР43\Structs\Structs\bin\Debug\Structs.exe.config
+C:\Users\Azek\YandexDisk\Учёба\byad\Сонин_ПР43\Structs\Structs\bin\Debug\Structs.exe
+C:\Users\Azek\YandexDisk\Учёба\byad\Сонин_ПР43\Structs\Structs\bin\Debug\Structs.pdb
+C:\Users\Azek\YandexDisk\Учёба\byad\Сонин_ПР43\Structs\Structs\bin\Debug\E2tima.dll
+C:\Users\Azek\YandexDisk\Учёба\byad\Сонин_ПР43\Structs\Structs\obj\Debug\Structs.csprojResolveAssemblyReference.cache
+C:\Users\Azek\YandexDisk\Учёба\byad\Сонин_ПР43\Structs\Structs\obj\Debug\Structs.exe
+C:\Users\Azek\YandexDisk\Учёба\byad\Сонин_ПР43\Structs\Structs\obj\Debug\Structs.pdb
+E:\Yandex.Disk\YandexDisk\YandexDisk\Учёба\byad\Сонин_ПР43\Structs\Structs\bin\Debug\Structs.exe.config
+E:\Yandex.Disk\YandexDisk\YandexDisk\Учёба\byad\Сонин_ПР43\Structs\Structs\bin\Debug\Structs.exe
+E:\Yandex.Disk\YandexDisk\YandexDisk\Учёба\byad\Сонин_ПР43\Structs\Structs\bin\Debug\Structs.pdb
+E:\Yandex.Disk\YandexDisk\YandexDisk\Учёба\byad\Сонин_ПР43\Structs\Structs\bin\Debug\E2tima.dll
+E:\Yandex.Disk\YandexDisk\YandexDisk\Учёба\byad\Сонин_ПР43\Structs\Structs\obj\Debug\Structs.csprojResolveAssemblyReference.cache
+E:\Yandex.Disk\YandexDisk\YandexDisk\Учёба\byad\Сонин_ПР43\Structs\Structs\obj\Debug\Structs.exe
+E:\Yandex.Disk\YandexDisk\YandexDisk\Учёба\byad\Сонин_ПР43\Structs\Structs\obj\Debug\Structs.pdb
