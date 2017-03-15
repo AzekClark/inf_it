@@ -4,3 +4,9 @@ C:\Users\Сонин Антон\Desktop\github\Сонин_ПР50\Task\bin\Task.pd
 C:\Users\Сонин Антон\Desktop\github\Сонин_ПР50\Task\obj\Debug\Task.csprojResolveAssemblyReference.cache
 C:\Users\Сонин Антон\Desktop\github\Сонин_ПР50\Task\obj\Debug\Task.exe
 C:\Users\Сонин Антон\Desktop\github\Сонин_ПР50\Task\obj\Debug\Task.pdb
+E:\Git\Ethernet\inf_it\Сонин_ПР50\Task\bin\Task.exe.config
+E:\Git\Ethernet\inf_it\Сонин_ПР50\Task\bin\Task.exe
+E:\Git\Ethernet\inf_it\Сонин_ПР50\Task\bin\Task.pdb
+E:\Git\Ethernet\inf_it\Сонин_ПР50\Task\obj\Debug\Task.csprojResolveAssemblyReference.cache
+E:\Git\Ethernet\inf_it\Сонин_ПР50\Task\obj\Debug\Task.exe
+E:\Git\Ethernet\inf_it\Сонин_ПР50\Task\obj\Debug\Task.pdb
