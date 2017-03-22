@@ -73,6 +73,36 @@ namespace Task
         }
 
 
+        public static bool CheckAllBraces(string checkString,
+           string  openBracesChars, string closeBracesChars)
+        {
+            var braceStack = new Stack<char>();
+
+            foreach (var chr in checkString)
+            {
+                if (Array.Exists(openBracesChars.ToCharArray(), element => element == chr))
+                {
+                    braceStack.Push(chr);
+                    continue;
+                }
+
+                if (!Array.Exists(closeBracesChars.ToCharArray(), element => element == chr))
+                    continue;
+
+                char brace;
+
+                if (braceStack.Count > 0)
+                    brace = braceStack.Pop();
+                else
+                    return false;
+
+                if (Array.IndexOf(openBracesChars.ToCharArray(), brace) !=
+                            Array.IndexOf(closeBracesChars.ToCharArray(), chr))
+                    return false;
+            }
+            return braceStack.Count == 0;
+        }
+
         static bool CheckBrackets (string data)
         {
             var braceStack = new Stack<char>();
@@ -133,7 +163,7 @@ namespace Task
                     {
                         
                         Console.Write("Проверка скобок...");
-                        if (CheckBrackets(input))
+                        if (CheckAllBraces(input, "({[", ")}]"))
                             Console.WriteLine("пройдена успешно");
                         else
                         {
