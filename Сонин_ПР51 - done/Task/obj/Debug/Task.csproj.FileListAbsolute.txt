@@ -1,0 +1,6 @@
+E:\Git\Ethernet\inf_it\Сонин_ПР51\Task\bin\Task.exe.config
+E:\Git\Ethernet\inf_it\Сонин_ПР51\Task\bin\Task.exe
+E:\Git\Ethernet\inf_it\Сонин_ПР51\Task\bin\Task.pdb
+E:\Git\Ethernet\inf_it\Сонин_ПР51\Task\obj\Debug\Task.csprojResolveAssemblyReference.cache
+E:\Git\Ethernet\inf_it\Сонин_ПР51\Task\obj\Debug\Task.exe
+E:\Git\Ethernet\inf_it\Сонин_ПР51\Task\obj\Debug\Task.pdb
