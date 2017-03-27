@@ -1,0 +1,9 @@
+E:\Git\Ethernet\inf_it\Сонин_ПР52\Task\bin\Task.exe.config
+E:\Git\Ethernet\inf_it\Сонин_ПР52\Task\bin\Task.exe
+E:\Git\Ethernet\inf_it\Сонин_ПР52\Task\bin\Task.pdb
+E:\Git\Ethernet\inf_it\Сонин_ПР52\Task\obj\Debug\Task.csprojResolveAssemblyReference.cache
+E:\Git\Ethernet\inf_it\Сонин_ПР52\Task\obj\Debug\Task.exe
+E:\Git\Ethernet\inf_it\Сонин_ПР52\Task\obj\Debug\Task.pdb
+E:\Git\Ethernet\inf_it\Сонин_ПР52\Task\obj\Debug\Task.Graphics.GraphicForm.resources
+E:\Git\Ethernet\inf_it\Сонин_ПР52\Task\obj\Debug\Task.csproj.GenerateResource.Cache
+E:\Git\Ethernet\inf_it\Сонин_ПР52\Task\obj\Debug\Task.Properties.Resources.resources
