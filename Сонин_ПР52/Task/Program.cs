@@ -76,10 +76,7 @@ namespace Task
             Console.CursorVisible = true;
         }
 
-        static void TaskwithBMP()
-        {
-
-        }
+   
             
         static string GetFile(string Caption, string extension = "")
         {
@@ -130,10 +127,47 @@ namespace Task
             return _out;
         }
 
+        static void TaskwithBMP()
+        {
+
+        }
+
         static void TaskwithFile()
         {
+            Bitmap picture = null;
             string file = GetFile("Введите путь до файла с 'матрицей':");
+            Console.Write("Конвертация в bmp");
+            try
+            {
+                using (StreamReader reader = new StreamReader(file))
+                {
+                    string temp = reader.ReadLine();
+                    picture = new Bitmap(int.Parse(temp.Split(new char[] { ' ' })[0]), int.Parse(temp.Split(new char[] { ' ' })[1]));
+                    int y = 0;
 
+                    while (!reader.EndOfStream)
+                    {
+                        temp = reader.ReadLine();
+                        string[] line = temp.Split(new char[] { ' ' });
+                        for (int i = 0; i < line.Length; i++)
+                            picture.SetPixel(i, y, Color.FromArgb(int.Parse(line[i]), int.Parse(line[i]), int.Parse(line[i])));
+                        y++;
+                    }
+
+                    #if DEBUG
+                        Application.Run(new Graphics.GraphicForm(picture));
+                    #endif
+                }
+            }
+            catch (Exception exp)
+            {
+                Console.WriteLine("Ошибка!");
+                Console.WriteLine("Причина:{0} и мои кривые руки ;)", exp.Message);
+                Console.WriteLine("Подробности:");
+                Console.WriteLine(exp.StackTrace);
+                return;
+            }
+            Console.WriteLine("Успешно!");
 
         }
     }

@@ -7,3 +7,12 @@ E:\Git\Ethernet\inf_it\Сонин_ПР52\Task\obj\Debug\Task.pdb
 E:\Git\Ethernet\inf_it\Сонин_ПР52\Task\obj\Debug\Task.Graphics.GraphicForm.resources
 E:\Git\Ethernet\inf_it\Сонин_ПР52\Task\obj\Debug\Task.csproj.GenerateResource.Cache
 E:\Git\Ethernet\inf_it\Сонин_ПР52\Task\obj\Debug\Task.Properties.Resources.resources
+C:\Users\Сонин Антон\Desktop\github\Сонин_ПР52\Task\obj\Debug\Task.csprojResolveAssemblyReference.cache
+C:\Users\Сонин Антон\Desktop\github\Сонин_ПР52\Task\obj\Debug\Task.Graphics.GraphicForm.resources
+C:\Users\Сонин Антон\Desktop\github\Сонин_ПР52\Task\obj\Debug\Task.Properties.Resources.resources
+C:\Users\Сонин Антон\Desktop\github\Сонин_ПР52\Task\obj\Debug\Task.csproj.GenerateResource.Cache
+C:\Users\Сонин Антон\Desktop\github\Сонин_ПР52\Task\obj\Debug\Task.exe
+C:\Users\Сонин Антон\Desktop\github\Сонин_ПР52\Task\bin\Task.exe.config
+C:\Users\Сонин Антон\Desktop\github\Сонин_ПР52\Task\bin\Task.exe
+C:\Users\Сонин Антон\Desktop\github\Сонин_ПР52\Task\bin\Task.pdb
+C:\Users\Сонин Антон\Desktop\github\Сонин_ПР52\Task\obj\Debug\Task.pdb
