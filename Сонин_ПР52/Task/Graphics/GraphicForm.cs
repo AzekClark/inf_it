@@ -19,5 +19,11 @@ namespace Task.Graphics
             pictureBox1.Image = picture;
         }
 
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+            Parametrs.Point = new Point(Cursor.Position.X - Location.X, Cursor.Position.Y - Location.Y);
+            Parametrs.Ready = true;
+            Close();
+        }
     }
 }
